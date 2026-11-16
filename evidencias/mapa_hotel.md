@@ -4,15 +4,15 @@ Completa la función de cada componente del repositorio dentro del stack del dat
 
 ```text
 gran-hotel-data-escape/
-├── 📄 README.md                 --> [Función del archivo]
-├── ⚙️ requirements.txt          --> [Función del archivo]
+├── 📄 README.md                 --> [Descripción del proyecto, objetivos, instrucciones de uso]
+├── ⚙️ requirements.txt          --> [Lista de librerías necesarias]
 ├── 📂 data/
-│   └── 📊 reservas_raw.csv      --> [Función del archivo]
-├── 📂 misiones/                 --> [Función de la carpeta]
-├── 📂 pistas/                   --> [Función de la carpeta]
+│   └── 📊 reservas_raw.csv      --> [Dataset bruto con reservas, valores nulos  duplicados.]
+├── 📂 misiones/                 --> [Los retos y objetivos]
+├── 📂 pistas/                   --> [Pistas y las instrucciones detalladas]
 ├── 📂 scripts/
-│   ├── 🛠️ make_dataset.py       --> [Función del script]
-│   └── 🛠️ conciliacion_hotel.py --> [Función del script]
+│   ├── 🛠️ make_dataset.py       --> [ Script para generar y preparar el dataset de trabajo.]
+│   └── 🛠️ conciliacion_hotel.py --> [Script de consola Python para filtrado inicial.]
 ├── 📂 notebooks/
-│   └── 🔮 analisis_gran_hotel.ipynb --> [Función del cuaderno]
-└── 📂 evidencias/               --> [Función de la carpeta]
+│   └── 🔮 analisis_gran_hotel.ipynb --> [Cuaderno interactivo de análisis final y DataViz]
+└── 📂 evidencias/               --> [Contiene la bitacora con notas y esta mapa]

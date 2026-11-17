@@ -1,0 +1,16 @@
+==================================================
+   INFORME PRELIMINAR DE CONCILIACIÓN FINANCIERA  
+==================================================
+
+Total de transacciones registradas: 100
+
+RESUMEN DE INGRESOS POR ESTADO:
+- COMPLETADAS : 29905.00 € (50 reservas)
+- CANCELADAS  : 20325.00 € (27 reservas)
+- DEVUELTAS   : 12525.00 € (22 reservas)
+- S/ESTADO    : 150.00 € (1 reservas)
+
+--------------------------------------------------
+PREGUNTA DE INVESTIGACIÓN PARA EL EQUIPO DE DATOS:
+¿El total de ingresos del hotel debe incluir las reservas canceladas y devueltas?
+Documenta tu conclusión analítica en tu Notebook (Puerta 6).

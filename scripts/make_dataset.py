@@ -31,7 +31,7 @@ df = pd.DataFrame(data)
 
 # Introducción intencionada de valores nulos (NaN / Vacíos)
 df.loc[5, "cliente"] = ""
-df.loc[12, "precio_noche"] = ""
+df.loc[12, "precio_noche"] = np.nan
 df.loc[25, "noches"] = ""
 df.loc[40, "estado"] = ""
 df.loc[58, "cliente"] = ""

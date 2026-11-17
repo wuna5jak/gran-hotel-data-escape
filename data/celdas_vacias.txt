@@ -1,0 +1,7 @@
+20:RES-1013,Juan Martínez,2026-03-12,Cancelada,,7
+28:RES-1041,Ana García,2026-02-12,,150.0,1
+31:RES-1073,Sofia Romero,2026-03-14,Completada,,7
+37:RES-1006,,2026-02-25,Completada,150.0,3
+74:RES-1059,,2026-02-25,Completada,85.0,5
+
+
